@@ -1,0 +1,13 @@
+{
+	"languageMode": "strict",
+	"lint": {
+		"*": false
+	},
+	"aliases": {
+		"Singletons": "Source/Singletons",
+		"Commands": "Source/Commands",
+		"Classes": "Source/Classes",
+		"Functions": "Source/Functions",
+		"Dependencies": "Source/Dependencies"
+	}
+}
