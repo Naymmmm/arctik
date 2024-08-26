@@ -5,7 +5,7 @@
 <div align="left">
 <ul style="list-style: none;">
   <summary>
-<h1>Arctik</h1>
+<h1>arctik</h1>
   </summary>
   </ul>
 </div>
@@ -15,4 +15,4 @@
 <a><img alt="GitHub License" src="https://img.shields.io/github/license/Naymmmm/arctik"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/coffee%20is-tasty-purple"></a>
 
-Arctik is your friendly neighbourhood moderation and utility bot, built using Discord-Luau.
+arctik is your friendly neighbourhood moderation and utility bot, built using Discord-Luau.
