@@ -11,3 +11,6 @@
 </div>
 </div>
 
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Naymmmm/arctik">
+
+Arctik is your friendly neighbourhood moderation and utility bot, built using Discord-Luau.
