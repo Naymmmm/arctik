@@ -2,7 +2,7 @@ local DiscordLuau = require("../DiscordLuau")
 
 local CommandInvoker = require("@Singletons/CommandInvoker")
 
-local BOT_TOKEN = ""
+local BOT_TOKEN = require("../env").BotToken
 
 local DiscordSetting = DiscordLuau.SettingsBuilder.new(BOT_TOKEN)
 local DiscordClient = DiscordLuau.DiscordClient.new(DiscordSetting)
