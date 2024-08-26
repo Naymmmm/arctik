@@ -15,7 +15,7 @@
 <a><img alt="GitHub License" src="https://img.shields.io/github/license/Naymmmm/arctik"></a>
 <a><img alt="Static Badge" src="https://img.shields.io/badge/coffee%20is-tasty-purple"></a>
 
-arctik is your friendly neighborhood moderation and utility bot, built using Discord-Luau.
+arctik (pronouced like "arctic") is your friendly neighborhood moderation and utility bot, built using Discord-Luau and Lune.
 
 ### m8, i want.
 You can invite arctik to your server using [this](https://discord.com/oauth2/authorize?client_id=1277540026858602549) fancy hyperlink.
