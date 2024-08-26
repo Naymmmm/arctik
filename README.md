@@ -17,10 +17,10 @@
 
 arctik (pronouced like "arctic") is your friendly neighborhood moderation and utility bot, built using Discord-Luau and Lune.
 
-### m8, i want.
+### i suck at coding, can i invite it?
 You can invite arctik to your server using [this](https://discord.com/oauth2/authorize?client_id=1277540026858602549) fancy hyperlink.
 
-### hosting it in yer neighborhood!
+### i wanna host it on my linux box
 It's easy to self-host arctik, you just need something that runs 24/7 and is stable, and a [bot](https://discord.dev).
 Just run `lune run Source` in the directory of the cloned repo (I'm hoping you already cloned it.) and
 kaboom! You hosted it!
