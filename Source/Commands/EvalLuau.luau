@@ -8,7 +8,7 @@ local Command = require("@Classes/Command")
 
 local commandBuilder = DiscordLuau.CommandBuilder.new()
     :setName("eval-luau")
-    :setDescription("Evaluate the state of luau code in a separate Lune instance.")
+    :setDescription("evaluate the metaverse")
     :setType(DiscordLuau.CommandBuilder.Type.ChatInput)
     :addContext(DiscordLuau.CommandBuilder.Context.BotDM)
     :addContext(DiscordLuau.CommandBuilder.Context.Guild)
