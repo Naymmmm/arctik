@@ -29,14 +29,6 @@ DiscordClient.eventManager.onInteraction:connect(function(interaction)
     CommandInvoker.onCommandInvoked(interaction)
 end)
 
-DiscordClient.eventManager.onMessage:connect(function(msg)
-    local nahBuild = DiscordLuau.MessageBuilder.new()
-    nahBuild:setContent("yuh, i don't support talkin to ya in dms, sorry")
-    if not msg.guildId then
-        msg:replyAsync(nahBuild)
-    end
-end)
-
 DiscordClient.eventManager.onGuildCreate:connect(function(guild)
 
 end)
