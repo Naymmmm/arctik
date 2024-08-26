@@ -11,8 +11,8 @@
 </div>
 </div>
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Naymmmm/arctik">
-<img alt="GitHub License" src="https://img.shields.io/github/license/Naymmmm/arctik">
-<img alt="Static Badge" src="https://img.shields.io/badge/coffee%20is-tasty-purple">
+<a><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Naymmmm/arctik"></a>
+<a><img alt="GitHub License" src="https://img.shields.io/github/license/Naymmmm/arctik"></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/coffee%20is-tasty-purple"></a>
 
 Arctik is your friendly neighbourhood moderation and utility bot, built using Discord-Luau.
