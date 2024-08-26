@@ -5,7 +5,7 @@
 <div align="left">
 <ul style="list-style: none;">
   <summary>
-<h1>arctik</h1>
+<h1>Arctik</h1>
   </summary>
   </ul>
 </div>
